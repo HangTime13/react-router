@@ -30,7 +30,7 @@ function ScienceRoom() {
             <button onClick={handleMessage}>Show story</button>
             </div>
 
-            {showMessage && <p>Cry me a river</p>}
+            {showMessage && <p>Cry me a river</p>} 
             <button>Hello</button>
             
         </div>
